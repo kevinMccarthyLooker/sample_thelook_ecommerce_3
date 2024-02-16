@@ -2,7 +2,7 @@
 # See the INTERMEDIATE_LOOKML_README.md document for overall concepts and the business example
 ###
 
-connection: "sample_bigquery_connection"
+connection: "bigquery_connection"
 
 label: "Z) Sample LookML"
 

@@ -5,7 +5,7 @@
 # Note that `advanced_example_ecommerce` logic is defined in a separate file,
 # `advanced_example_ecommerce.explore.lkml"`. That file is included below.
 
-connection: "sample_bigquery_connection"
+connection: "bigquery_connection"
 
 label: "Z) Sample LookML"
 
