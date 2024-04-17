@@ -6,7 +6,8 @@
 # For a fundamental overview of model files and other LookML objects, start with the BASIC_LOOKML_README.md file.
 ###
 
-connection: "bigquery_connection"
+# connection: "bigquery_connection"
+connection: "kevmccarthy_bq"
 
 label: "Z) Sample LookML" # Set UI label to "Z)..." so this demo project's Explores appear last in the Explore list
 
